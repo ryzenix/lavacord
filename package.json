@@ -1,5 +1,5 @@
 {
-  "name": "@lavacord/discord.js",
+  "name": "lavacord-djs",
   "version": "0.0.7",
   "description": "A simple to use lavalink wrapper for the discord.js library",
   "main": "dist/index",
